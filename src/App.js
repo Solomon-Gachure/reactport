@@ -6,6 +6,7 @@ import Work from "./components/work";
 import Contact from "./components/contact";
 function App() {
   return (
+    
     <div>
       <Navbar />
       <Home />
